@@ -1,0 +1,85 @@
+p {
+margin-left: 300px;
+padding-left: 40px;
+
+}
+
+#red {
+  background: red;
+  color: white;
+  font-family: monospace;
+  font-size: 18px;
+  width: 800px;
+}
+
+#orange {
+  background: orange;
+  color: white;
+  font-family: monospace;
+  font-size: 18px;
+  width: 800px;
+}
+
+#yellow {
+  background: yellow;
+  color: white;
+  font-family: monospace;
+  font-size: 18px;
+  width: 800px;
+}
+
+#yellowgreen {
+  background: yellowgreen;
+  color: white;
+  font-family: monospace;
+  font-size: 18px;
+  width: 800px;
+}
+
+#green {
+  background: green;
+  color: white;
+  font-family: monospace;
+  font-size: 18px;
+  width: 800px;
+}
+
+#teal {
+  background: teal;
+  color: white;
+  font-family: monospace;
+  font-size: 18px;
+  width: 800px;
+}
+
+#blue {
+  background: blue;
+  color: white;
+  font-family: monospace;
+  font-size: 18px;
+  width: 800px;
+}
+
+#purple {
+  background: purple;
+  color: white;
+  font-family: monospace;
+  font-size: 18px;
+  width: 800px;
+}
+
+#violet {
+  background: violet;
+  color: white;
+  font-family: monospace;
+  font-size: 18px;
+  width: 800px;
+}
+
+#pink {
+  background: pink;
+  color: white;
+  font-family: monospace;
+  font-size: 18px;
+  width: 800px;
+}
