@@ -1,0 +1,52 @@
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.one {
+  position: fixed;
+  width: 98%;
+  height: 100px;
+  background: tomato;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top:10px;
+  transition: all .3s ease;
+}
+
+.one:hover {
+  background: #C93F2D;
+}
+
+.two {
+  position: fixed;
+  width: 98%;
+  height: 100px;
+  background: orange;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top:120px;
+  font-style: none;
+}
+.two:hover {
+  background: #D88207;
+}
+
+.three {
+  position: fixed;
+  width: 98%;
+  height: 100px;
+  background: gold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top:230px;
+  font-style: none;
+}
+.three:hover {
+  background: #DDB407;
+}

@@ -1,0 +1,29 @@
+p {
+margin-left: 80px;
+}
+
+.basic {
+width: 760px;
+background-color: #efefef;
+font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.basic-list {
+width: 720px;
+margin-left: 80px;
+background-color: #efefef;
+font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.question {
+width: 760px;
+background-color: #81C0B2;
+font-family: 'IBM Plex Sans', sans-serif;
+color: white;
+}
+
+.image {
+display: inline;
+padding-left: 385px;
+padding-top: 50px;
+}
