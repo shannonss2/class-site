@@ -9,7 +9,7 @@ a {
   position: fixed;
   width: 98%;
   height: 99px;
-  background: tomato;
+  background: lightsalmon;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -25,7 +25,7 @@ a {
   position: fixed;
   width: 98%;
   height: 99px;
-  background: orange;
+  background: cadetblue;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -40,7 +40,7 @@ a {
   position: fixed;
   width: 98%;
   height: 99px;
-  background: gold;
+  background: #EFC203;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -55,7 +55,7 @@ a {
   position: fixed;
   width: 98%;
   height: 99px;
-  background: yellowgreen;
+  background: #E2DCDC;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -70,7 +70,7 @@ a {
   position: fixed;
   width: 98%;
   height: 99px;
-  background: mediumaquamarine;
+  background: lightseagreen;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -85,7 +85,7 @@ a {
   position: fixed;
   width: 98%;
   height: 99px;
-  background: cornflowerblue;
+  background: olive;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -100,7 +100,7 @@ a {
   position: fixed;
   width: 98%;
   height: 99px;
-  background: #BB80F9;
+  background: #E26D6D;
   display: flex;
   justify-content: center;
   align-items: center;

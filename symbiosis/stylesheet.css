@@ -9,7 +9,7 @@ a {
   position: fixed;
   width: 98%;
   height: 99px;
-  background: gold;
+  background: #EFC203;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -36,7 +36,7 @@ a {
 .onea {
   width: 33%;
   height: 99px;
-  background: #EFC203;
+  background: gold;
   margin-right: 10px;
   transition: all .3s ease;
   display: flex;
@@ -45,13 +45,13 @@ a {
 }
 
 .onea:hover {
-  background: #D8AE00;
+  background: #EFC203;
 }
 
 .oneb {
   width: 33%;
   height: 99px;
-  background: #EFC203;
+  background: gold;
   margin-right: 10px;
   transition: all .3s ease;
   display: flex;
@@ -60,13 +60,13 @@ a {
 }
 
 .oneb:hover {
-  background: #D8AE00;
+  background: #EFC203;
 }
 
 .onec {
   width: 32%;
   height: 99px;
-  background: #EFC203;
+  background: gold;
   margin-right: : 10px;
   transition: all .3s ease;
   display: flex;
@@ -75,7 +75,7 @@ a {
 }
 
 .onec:hover {
-  background: #D8AE00;
+  background: #EFC203;
 }
 
 .two-container {
@@ -316,7 +316,7 @@ a {
   position: fixed;
   width: 98%;
   height: 99px;
-  background: gold;
+  background: #EFC203;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -325,5 +325,5 @@ a {
 }
 
 .back:hover {
-  background: #EFC203;
+  background: #DDB407;
 }
