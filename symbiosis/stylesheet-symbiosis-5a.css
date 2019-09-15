@@ -1,0 +1,276 @@
+body {
+  color: white;
+  font-family: sans-serif;
+}
+
+.title {
+position: absolute;
+left: 100px;
+top: 100px;
+width: 100px;
+height: 100px;
+display: flex;
+align-items: center;
+background: white;
+justify-content: center;
+transition: all 1s ease;
+}
+
+.title:hover {
+  background: mediumturquoise;
+}
+
+.author {
+position: absolute;
+left: 300px;
+top: 100px;
+width: 100px;
+height: 100px;
+display: flex;
+align-items: center;
+background: white;
+transition: all 1s ease;
+justify-content: center;
+}
+
+.author:hover {
+  background: mediumturquoise;
+}
+
+.first {
+position: absolute;
+left: 500px;
+top: 100px;
+width: 80px;
+height: 80px;
+display: flex;
+align-items: center;
+background: white;
+transition: all 1s ease;
+padding: 10px;
+}
+
+.first:hover {
+  background: mediumturquoise;
+}
+
+.second {
+position: absolute;
+left: 700px;
+top: 100px;
+width: 80px;
+height: 80px;
+display: flex;
+align-items: center;
+background: white;
+transition: all 1s ease;
+padding: 10px;
+}
+
+.second:hover {
+  background: mediumturquoise;
+}
+
+.third {
+position: absolute;
+left: 160px;
+top: 250px;
+width: 80px;
+height: 80px;
+display: flex;
+align-items: center;
+background: white;
+transition: all 1s ease;
+padding: 10px;
+}
+
+.third:hover {
+  background: mediumturquoise;
+}
+
+.four {
+position: absolute;
+left: 360px;
+top: 250px;
+width: 80px;
+height: 80px;
+display: flex;
+align-items: center;
+background: white;
+transition: all 1s ease;
+padding: 10px;
+}
+
+.four:hover {
+  background: mediumturquoise;
+}
+
+.five {
+position: absolute;
+left: 560px;
+top: 250px;
+width: 80px;
+height: 80px;
+display: flex;
+align-items: center;
+background: white;
+transition: all 1s ease;
+padding: 10px;
+}
+
+.five:hover {
+  background: mediumturquoise;
+}
+
+.six {
+position: absolute;
+left: 760px;
+top: 250px;
+width: 80px;
+height: 80px;
+display: flex;
+align-items: center;
+background: white;
+transition: all 1s ease;
+padding: 10px;
+}
+
+.six:hover {
+  background: mediumturquoise;
+}
+
+.seven {
+position: absolute;
+left: 100px;
+top: 400px;
+width: 80px;
+height: 80px;
+display: flex;
+align-items: center;
+background: white;
+padding: 10px;
+transition: all 1s ease;
+}
+
+.seven:hover {
+  background: mediumturquoise;
+}
+
+.eight {
+position: absolute;
+left: 300px;
+top: 400px;
+width: 80px;
+height: 80px;
+display: flex;
+align-items: center;
+background: white;
+transition: all 1s ease;
+padding: 10px;
+}
+
+.eight:hover {
+  background: mediumturquoise;
+}
+
+.nine {
+position: absolute;
+left: 500px;
+top: 400px;
+width: 80px;
+height: 80px;
+display: flex;
+align-items: center;
+background: white;
+transition: all 1s ease;
+padding: 10px;
+}
+
+.nine:hover {
+  background: mediumturquoise;
+}
+
+.ten {
+position: absolute;
+left: 700px;
+top: 400px;
+width: 80px;
+height: 80px;
+display: flex;
+align-items: center;
+background: white;
+transition: all 1s ease;
+padding: 10px;
+}
+
+.ten:hover {
+  background: mediumturquoise;
+}
+
+.eleven {
+position: absolute;
+left: 160px;
+top: 550px;
+width: 80px;
+height: 80px;
+display: flex;
+align-items: center;
+background: white;
+transition: all 1s ease;
+padding: 10px;
+}
+
+.eleven:hover {
+  background: mediumturquoise;
+}
+
+.twelve {
+position: absolute;
+left: 360px;
+top: 550px;
+width: 80px;
+height: 80px;
+display: flex;
+align-items: center;
+background: white;
+transition: all 1s ease;
+padding: 10px;
+}
+
+.twelve:hover {
+  background: mediumturquoise;
+}
+
+.thirteen {
+position: absolute;
+left: 560px;
+top: 550px;
+width: 80px;
+height: 80px;
+display: flex;
+align-items: center;
+background: white;
+transition: all 1s ease;
+padding: 10px;
+}
+
+.thirteen:hover {
+  background: mediumturquoise;
+}
+
+.fourteen {
+position: absolute;
+left: 760px;
+top: 550px;
+width: 80px;
+height: 80px;
+display: flex;
+align-items: center;
+background: white;
+transition: all 1s ease;
+padding: 10px;
+}
+
+.fourteen:hover {
+  background: mediumturquoise;
+}

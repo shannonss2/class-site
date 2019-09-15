@@ -1,0 +1,64 @@
+.title {
+position: absolute;
+left: 10%;
+top: 100px;
+width: 400px;
+height: 100px;
+padding-left: 35px;
+display: flex;
+align-items: center;
+color: ghostwhite;
+background: lightpink;
+}
+
+.first {
+position: absolute;
+left: 20%;
+top: 200px;
+width: 400px;
+height: 100px;
+padding-left: 35px;
+display: flex;
+align-items: center;
+color: ghostwhite;
+background: lightsalmon;
+}
+
+.second {
+position: absolute;
+left: 30%;
+top: 300px;
+width: 400px;
+height: 100px;
+padding-left: 35px;
+display: flex;
+align-items: center;
+color: ghostwhite;
+background: salmon;
+}
+
+.third {
+position: absolute;
+left: 40%;
+top: 400px;
+width: 400px;
+height: 100px;
+padding-left: 35px;
+display: flex;
+align-items: center;
+color: ghostwhite;
+background: lightcoral;
+}
+
+.fourth {
+position: absolute;
+left: 50%;
+top: 500px;
+width: 400px;
+height: 100px;
+padding-left: 35px;
+display: flex;
+align-items: center;
+color: ghostwhite;
+background: indianred;
+}

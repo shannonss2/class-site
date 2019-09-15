@@ -1,5 +1,5 @@
 p {
-margin-left: 300px;
+margin-left: 75px;
 padding-left: 40px;
 
 }
@@ -7,79 +7,59 @@ padding-left: 40px;
 #red {
   background: red;
   color: white;
-  font-family: monospace;
-  font-size: 18px;
-  width: 800px;
+  width: 1200px;
 }
 
 #orange {
   background: orange;
   color: white;
-  font-family: monospace;
-  font-size: 18px;
-  width: 800px;
+  width: 1200px;
 }
 
 #yellow {
   background: yellow;
   color: white;
-  font-family: monospace;
-  font-size: 18px;
-  width: 800px;
+  width: 1200px;
 }
 
 #yellowgreen {
   background: yellowgreen;
   color: white;
-  font-family: monospace;
-  font-size: 18px;
-  width: 800px;
+  width: 1200px;
 }
 
 #green {
   background: green;
   color: white;
-  font-family: monospace;
-  font-size: 18px;
-  width: 800px;
+  width: 1200px;
 }
 
 #teal {
   background: teal;
   color: white;
-  font-family: monospace;
-  font-size: 18px;
-  width: 800px;
+  width: 1200px;
 }
 
 #blue {
   background: blue;
   color: white;
-  font-family: monospace;
-  font-size: 18px;
-  width: 800px;
+  width: 1200px;
 }
 
 #purple {
   background: purple;
   color: white;
-  font-family: monospace;
-  font-size: 18px;
-  width: 800px;
+  width: 1200px;
 }
 
 #violet {
   background: violet;
   color: white;
-  font-family: monospace;
-  font-size: 18px;
-  width: 800px;
+  width: 1200px;
 }
 
 #pink {
   background: pink;
   color: white;
-  font-family: monospace;
-  font-size: 18px;
-  width: 800px;
+  width: 1200px;
 }

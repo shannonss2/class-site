@@ -1,0 +1,15 @@
+.a {
+  margin-left: 64%;
+  width: 34%;
+  padding-right: 20px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  transition: all 20s linear;
+  color: black;
+}
+
+.a:hover {
+  margin-left: 0;
+}

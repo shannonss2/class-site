@@ -1,0 +1,15 @@
+.poem {
+border-style: double;
+position: absolute;
+right: 100px;
+bottom: 100px;
+width: 350px;
+height: 400px;
+padding-left: 35px;
+padding-top: 35px;
+color: slategray;
+background: ghostwhite;
+
+
+
+}
