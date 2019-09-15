@@ -1,0 +1,329 @@
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.one {
+  position: fixed;
+  width: 98%;
+  height: 99px;
+  background: gold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top:10px;
+  transition: all .3s ease;
+}
+
+.one:hover {
+  background: #EFC203;
+}
+
+.one-container {
+  position:fixed;
+  width:98%;
+  height:99px;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  margin-left: 1px;
+  margin-right: 10px;
+  top:118px;
+}
+
+.onea {
+  width: 33%;
+  height: 99px;
+  background: #EFC203;
+  margin-right: 10px;
+  transition: all .3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.onea:hover {
+  background: #D8AE00;
+}
+
+.oneb {
+  width: 33%;
+  height: 99px;
+  background: #EFC203;
+  margin-right: 10px;
+  transition: all .3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.oneb:hover {
+  background: #D8AE00;
+}
+
+.onec {
+  width: 32%;
+  height: 99px;
+  background: #EFC203;
+  margin-right: : 10px;
+  transition: all .3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.onec:hover {
+  background: #D8AE00;
+}
+
+.two-container {
+  position:fixed;
+  width:98%;
+  height:99px;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  margin-left: 1px;
+  margin-right: 10px;
+  top:226px;
+}
+
+.twoa {
+  width: 33%;
+  height: 99px;
+  background: #D8AE00;
+  margin-right: 10px;
+  transition: all .3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.twoa:hover {
+  background: #BC9800;
+}
+
+.twob {
+  width: 33%;
+  height: 99px;
+  background: #D8AE00;
+  margin-right: 10px;
+  transition: all .3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.twob:hover {
+  background: #BC9800;
+}
+
+.twoc {
+  width: 32%;
+  height: 99px;
+  background: #D8AE00;
+  margin-right: : 10px;
+  transition: all .3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.twoc:hover {
+  background: #BC9800;
+}
+
+.three-container {
+  position:fixed;
+  width:98%;
+  height:99px;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  margin-left: 1px;
+  margin-right: 10px;
+  top:334px;
+}
+
+.threea {
+  width: 33%;
+  height: 99px;
+  background: #BC9800;
+  margin-right: 10px;
+  transition: all .3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.threea:hover {
+  background: #A08100;
+}
+
+.threeb {
+  width: 33%;
+  height: 99px;
+  background: #BC9800;
+  margin-right: 10px;
+  transition: all .3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.threeb:hover {
+  background: #A08100;
+}
+
+.threec {
+  width: 32%;
+  height: 99px;
+  background: #BC9800;
+  margin-right: : 10px;
+  transition: all .3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.threec:hover {
+  background: #A08100;
+}
+
+.four-container {
+  position:fixed;
+  width:98%;
+  height:99px;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  margin-left: 1px;
+  margin-right: 10px;
+  top:443px;
+}
+
+.foura {
+  width: 33%;
+  height: 99px;
+  background: #A08100;
+  margin-right: 10px;
+  transition: all .3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.foura:hover {
+  background: #826A02;
+}
+
+.fourb {
+  width: 33%;
+  height: 99px;
+  background: #A08100;
+  margin-right: 10px;
+  transition: all .3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fourb:hover {
+  background: #826A02;
+}
+
+.fourc {
+  width: 32%;
+  height: 99px;
+  background: #A08100;
+  margin-right: : 10px;
+  transition: all .3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fourc:hover {
+  background: #826A02;
+}
+
+
+.five-container {
+  position:fixed;
+  width:98%;
+  height:99px;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  margin-left: 1px;
+  margin-right: 10px;
+  top:551px;
+}
+
+.fivea {
+  width: 33%;
+  height: 99px;
+  background: #826A02;
+  margin-right: 10px;
+  transition: all .3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fivea:hover {
+  background: #665303;
+}
+
+.fiveb {
+  width: 33%;
+  height: 99px;
+  background: #826A02;
+  margin-right: 10px;
+  transition: all .3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fiveb:hover {
+  background: #665303;
+}
+
+.fivec {
+  width: 32%;
+  height: 99px;
+  background: #826A02;
+  margin-right: : 10px;
+  transition: all .3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fivec:hover {
+  background: #665303;
+}
+
+
+
+
+
+
+.back {
+  position: fixed;
+  width: 98%;
+  height: 99px;
+  background: gold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top:659px;
+  transition: all .3s ease;
+}
+
+.back:hover {
+  background: #EFC203;
+}

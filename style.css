@@ -8,7 +8,7 @@ a {
 .one {
   position: fixed;
   width: 98%;
-  height: 100px;
+  height: 99px;
   background: tomato;
   display: flex;
   justify-content: center;
@@ -24,12 +24,12 @@ a {
 .two {
   position: fixed;
   width: 98%;
-  height: 100px;
+  height: 99px;
   background: orange;
   display: flex;
   justify-content: center;
   align-items: center;
-  top:120px;
+  top:118px;
   font-style: none;
 }
 .two:hover {
@@ -39,14 +39,74 @@ a {
 .three {
   position: fixed;
   width: 98%;
-  height: 100px;
+  height: 99px;
   background: gold;
   display: flex;
   justify-content: center;
   align-items: center;
-  top:230px;
+  top:226px;
   font-style: none;
 }
 .three:hover {
   background: #DDB407;
+}
+
+.four {
+  position: fixed;
+  width: 98%;
+  height: 99px;
+  background: yellowgreen;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top:334px;
+  font-style: none;
+}
+.four:hover {
+  background: #7DA814;
+}
+
+.five {
+  position: fixed;
+  width: 98%;
+  height: 99px;
+  background: mediumaquamarine;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top:443px;
+  font-style: none;
+}
+.five:hover {
+  background: lightseagreen;
+}
+
+.six {
+  position: fixed;
+  width: 98%;
+  height: 99px;
+  background: cornflowerblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top:551px;
+  font-style: none;
+}
+.six:hover {
+  background: #4C7BC1;
+}
+
+.seven {
+  position: fixed;
+  width: 98%;
+  height: 99px;
+  background: #BB80F9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top:659px;
+  font-style: none;
+}
+.seven:hover {
+  background: #A060F4;
 }
