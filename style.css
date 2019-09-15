@@ -18,7 +18,7 @@ a {
 }
 
 .one:hover {
-  background: #C93F2D;
+  background: #D87350;
 }
 
 .two {
@@ -33,7 +33,7 @@ a {
   font-style: none;
 }
 .two:hover {
-  background: #D88207;
+  background: #417F7F;
 }
 
 .three {
@@ -48,7 +48,7 @@ a {
   font-style: none;
 }
 .three:hover {
-  background: #DDB407;
+  background: #D1AA07;
 }
 
 .four {
@@ -63,7 +63,7 @@ a {
   font-style: none;
 }
 .four:hover {
-  background: #7DA814;
+  background: #C9BDBD;
 }
 
 .five {
@@ -78,7 +78,7 @@ a {
   font-style: none;
 }
 .five:hover {
-  background: lightseagreen;
+  background: darkcyan;
 }
 
 .six {
@@ -93,7 +93,7 @@ a {
   font-style: none;
 }
 .six:hover {
-  background: #4C7BC1;
+  background: #666300;
 }
 
 .seven {
@@ -108,5 +108,5 @@ a {
   font-style: none;
 }
 .seven:hover {
-  background: #A060F4;
+  background: #C15252;
 }
