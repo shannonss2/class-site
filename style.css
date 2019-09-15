@@ -55,7 +55,7 @@ a {
   position: fixed;
   width: 98%;
   height: 99px;
-  background: #E2DCDC;
+  background: #C9BDBD;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -63,7 +63,7 @@ a {
   font-style: none;
 }
 .four:hover {
-  background: #C9BDBD;
+  background: #AA9B9B;
 }
 
 .five {
