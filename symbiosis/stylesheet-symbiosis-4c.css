@@ -1,0 +1,14 @@
+body {
+font-family: 'IBM Plex Sans', sans-serif;
+background: rosybrown;
+}
+
+.title {
+padding-left: 20px;
+  transform: rotate(-20deg);
+color: white;
+letter-spacing: 2px;
+font-size: 18px;
+display: flex;
+align-items: flex-end;
+}
