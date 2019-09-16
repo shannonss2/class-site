@@ -8,12 +8,12 @@ a {
 .one {
   position: fixed;
   width: 98%;
-  height: 99px;
+  height: 12.8%;
   background: #EFC203;
   display: flex;
   justify-content: center;
   align-items: center;
-  top:10px;
+  top:1.2%;
   transition: all .3s ease;
 }
 
@@ -24,18 +24,18 @@ a {
 .one-container {
   position:fixed;
   width:98%;
-  height:99px;
+  height: 12.8%;
   display: flex;
   flex-direction: row;
   align-content: center;
   margin-left: 1px;
   margin-right: 10px;
-  top:118px;
+  top:15.4%;
 }
 
 .onea {
   width: 33%;
-  height: 99px;
+  height: 100%;
   background: gold;
   margin-right: 10px;
   transition: all .3s ease;
@@ -50,7 +50,7 @@ a {
 
 .oneb {
   width: 33%;
-  height: 99px;
+  height: 100%;
   background: gold;
   margin-right: 10px;
   transition: all .3s ease;
@@ -65,7 +65,7 @@ a {
 
 .onec {
   width: 32%;
-  height: 99px;
+  height: 100%;
   background: gold;
   margin-right: : 10px;
   transition: all .3s ease;
@@ -81,18 +81,18 @@ a {
 .two-container {
   position:fixed;
   width:98%;
-  height:99px;
+  height: 12.8%;
   display: flex;
   flex-direction: row;
   align-content: center;
   margin-left: 1px;
   margin-right: 10px;
-  top:226px;
+  top:29.6%;
 }
 
 .twoa {
   width: 33%;
-  height: 99px;
+  height: 100%;
   background: #D8AE00;
   margin-right: 10px;
   transition: all .3s ease;
@@ -107,7 +107,7 @@ a {
 
 .twob {
   width: 33%;
-  height: 99px;
+  height: 100%;
   background: #D8AE00;
   margin-right: 10px;
   transition: all .3s ease;
@@ -122,7 +122,7 @@ a {
 
 .twoc {
   width: 32%;
-  height: 99px;
+  height: 100%;
   background: #D8AE00;
   margin-right: : 10px;
   transition: all .3s ease;
@@ -138,18 +138,18 @@ a {
 .three-container {
   position:fixed;
   width:98%;
-  height:99px;
+  height: 12.8%;
   display: flex;
   flex-direction: row;
   align-content: center;
   margin-left: 1px;
   margin-right: 10px;
-  top:334px;
+  top:43.8%;
 }
 
 .threea {
   width: 33%;
-  height: 99px;
+  height: 100%;
   background: #BC9800;
   margin-right: 10px;
   transition: all .3s ease;
@@ -164,7 +164,7 @@ a {
 
 .threeb {
   width: 33%;
-  height: 99px;
+  height: 100%;
   background: #BC9800;
   margin-right: 10px;
   transition: all .3s ease;
@@ -179,7 +179,7 @@ a {
 
 .threec {
   width: 32%;
-  height: 99px;
+  height: 100%;
   background: #BC9800;
   margin-right: : 10px;
   transition: all .3s ease;
@@ -195,18 +195,18 @@ a {
 .four-container {
   position:fixed;
   width:98%;
-  height:99px;
+  height: 12.8%;
   display: flex;
   flex-direction: row;
   align-content: center;
   margin-left: 1px;
   margin-right: 10px;
-  top:443px;
+  top:58%;
 }
 
 .foura {
   width: 33%;
-  height: 99px;
+  height: 100%;
   background: #A08100;
   margin-right: 10px;
   transition: all .3s ease;
@@ -221,7 +221,7 @@ a {
 
 .fourb {
   width: 33%;
-  height: 99px;
+  height: 100%;
   background: #A08100;
   margin-right: 10px;
   transition: all .3s ease;
@@ -236,7 +236,7 @@ a {
 
 .fourc {
   width: 32%;
-  height: 99px;
+  height: 100%;
   background: #A08100;
   margin-right: : 10px;
   transition: all .3s ease;
@@ -253,18 +253,18 @@ a {
 .five-container {
   position:fixed;
   width:98%;
-  height:99px;
+  height: 12.8%;
   display: flex;
   flex-direction: row;
   align-content: center;
   margin-left: 1px;
   margin-right: 10px;
-  top:551px;
+  top:72.2%;
 }
 
 .fivea {
   width: 33%;
-  height: 99px;
+  height: 100%;
   background: #826A02;
   margin-right: 10px;
   transition: all .3s ease;
@@ -279,7 +279,7 @@ a {
 
 .fiveb {
   width: 33%;
-  height: 99px;
+  height: 100%;
   background: #826A02;
   margin-right: 10px;
   transition: all .3s ease;
@@ -294,7 +294,7 @@ a {
 
 .fivec {
   width: 32%;
-  height: 99px;
+  height: 100%;
   background: #826A02;
   margin-right: : 10px;
   transition: all .3s ease;
@@ -315,12 +315,12 @@ a {
 .back {
   position: fixed;
   width: 98%;
-  height: 99px;
+  height: 12.8%;
   background: #EFC203;
   display: flex;
   justify-content: center;
   align-items: center;
-  top:659px;
+  top:86.4%;
   transition: all .3s ease;
 }
 
