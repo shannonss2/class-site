@@ -1,3 +1,7 @@
+body {
+  background-image: linear-gradient(to right, mediumslateblue, lightcoral);
+}
+
 .a {
   margin-left: 64%;
   width: 34%;
@@ -7,7 +11,7 @@
   align-items: center;
   justify-content: flex-end;
   transition: all 20s linear;
-  color: black;
+  color: lightcoral;
 }
 
 .a:hover {

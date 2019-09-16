@@ -1,0 +1,40 @@
+body {
+  font-family: 'Six Caps', sans-serif;
+background: black;
+}
+
+.title {
+  margin-top: 250px;
+text-align: center;
+color: white;
+letter-spacing: 2px;
+font-size: 100px;
+}
+
+.author {
+  margin-top: 20px;
+text-align: center;
+color: white;
+letter-spacing: 2px;
+font-size: 45px;
+}
+
+.container {
+  width: 100%;
+  height: 140px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items:stretch;
+  margin-top:50px;
+}
+
+.first {
+  padding-left: 30px;
+  padding-top: 10px;
+width: 25%;
+line-height: 30px;
+font-size: 24px;
+background: white;
+color: black;
+}
