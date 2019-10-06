@@ -1,0 +1,61 @@
+body {
+  background: lightsteelblue;
+  margin-left: 0;
+  margin-top: 0;
+}
+
+.marquee {
+  display:flex;
+  flex-direction: row;
+  height:30vh;
+  width:100vw;
+  color: gold;
+  font-size: 18vw;
+  font-family: font-family: 'Shrikhand', cursive;
+}
+
+.container {
+  position: relative;
+display:flex;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;
+height:100%;
+width: 100%;
+}
+
+.balls {
+  height:30vw;
+  width:30vw;
+  border-radius: 100%;
+  background: tomato;
+}
+
+@media screen and (max-width: 800px) {
+  .marquee {writing-mode: vertical-lr;
+  text-orientation: sideways;
+  display:flex;
+  flex-direction: row;
+  height:100vh;
+  width:30vw;
+  color: gold;
+  font-size: 30vw;
+  font-family: font-family: 'Shrikhand', cursive;}
+
+  .container {
+position: fixed;
+bottom:0;
+right:0;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height:100vh;
+  width: 70vw;
+  }
+
+  .balls {
+    height:30vh;
+    width:30vh;
+  }
+}
