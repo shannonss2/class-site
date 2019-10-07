@@ -31,7 +31,7 @@ width: 100%;
   background: tomato;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1200px) {
   .marquee {writing-mode: vertical-lr;
   text-orientation: sideways;
   display:flex;
